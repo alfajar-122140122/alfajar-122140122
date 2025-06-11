@@ -37,7 +37,7 @@ I'm a passionate Computer Science student at Institut Teknologi Sumatera, explor
 
 ## 📫 Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/al-fajar-shani/">
+  <a href="https://www.linkedin.com/in/0alfajar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:alfajar.122140122@student.itera.ac.id">
